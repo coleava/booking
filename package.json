@@ -2,7 +2,10 @@
   "name": "booking",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://navi839.github.io/booking/",
+=======
+>>>>>>> d331702bf9738271795745efcea8f9d08c12b56f
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
