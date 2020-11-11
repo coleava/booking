@@ -1,7 +1,6 @@
 {
   "name": "booking",
   "version": "0.1.0",
-  "private": false,
   "homepage": "https://navi839.github.io/booking",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
