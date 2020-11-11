@@ -7,7 +7,7 @@ import  { BrowserRouter}  from 'react-router-dom';
 import Users from './page/users';
 
 ReactDOM.render(
-  <Users/>
+  <Users/>,
   document.getElementById('root')
 );
 
